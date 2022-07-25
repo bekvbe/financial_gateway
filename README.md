@@ -1,3 +1,5 @@
-# financial_gateway
+# Financial gateway
 
-To use, %pip install -r requirements.txt
+# To use:
+
+### %pip install -r requirements.txt
